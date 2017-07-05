@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: rabbitmq-helloa
+  rabbitmq:
+    host: 192.168.186.130
+    port: 5672
+    username: spring-cloud
+    password: guest
